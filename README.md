@@ -10,7 +10,7 @@
 
 ## Sobre mim
 - Minha paixão pela tecnologia começou aos 9 anos, quando tive meu primeiro contato com computadores. 
-- Profissional de TI com experiência em ambiente on-premise e sólidos conhecimentos em Cloud/DevOps.
+- Profissional de TI com experiência em ambiente on-premise e sólidos conhecimentos em Cloud/Suporte TI.
 - Estou me formando em Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em computação em nuvem, principalmente em AWS e Linux.
 - Sou um profissional que sempre procuro aprender coisas novas e contectar pessoas ao universo da tecnologia da informação.
 - Estou procurando uma oportunidade de trabalho remoto em empresa que valorize o trabalho em equipe e a aprendizagem contínua.
@@ -26,7 +26,7 @@
 - 🔭 Atualmente estou trabalhando em ambiente on-premise.
 - 🌱 Atualmente estou aprimorando meus conhecimento em Linux, AWS e Github Actions.
 - 👯 Estou procurando colaborar em projetos que consolidem ainda mais meus conhecimento.
-- 🤔 Estou procurando a primeira oportunidade na área de cloud/devops.
+- 🤔 Estou procurando a primeira oportunidade na área de cloud/Suporte TI.
 - 💬 Pergunte-me sobre as ferramentas supracitadas terei prazer em ajudar.
 - ⚡ Curiosidade: amo ficar com minha família, gosto de levar uma vida saudável com exercícios físicos, boa alimentação e uma boa noite de sono. 
 
