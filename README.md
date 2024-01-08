@@ -1,7 +1,6 @@
 # Olá, me chamo Pedro! 
 
-- Bem-vindo ao meu perfil GitHub. Trabalho com tecnologia da informação e meu objetivo é entrar na área Cloud ou Suporte TI
-- .
+- Bem-vindo ao meu perfil GitHub. Trabalho com tecnologia da informação e meu objetivo é entrar na área Cloud/Suporte TI.
   - Minha missão é entregar resultados de forma remota, ativa e consistente, sempre valorizando o trabalho em equipe.
 
 
